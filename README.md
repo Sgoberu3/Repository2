@@ -1,2 +1,1 @@
-# Repository2
-Repository2 for testing
+This is GitHub testing Repository2 file
